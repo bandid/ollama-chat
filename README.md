@@ -1,4 +1,4 @@
-# lliam-chat
+# Ollama-chat
 
 Web interface to chat with a locally installed Large Language Model via Ollama. Check out the tutorial from the author here - https://medium.com/@mpalmerlee/building-an-llm-chat-interface-using-ollama-and-vue-5bf4e2fc65fd
 
